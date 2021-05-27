@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #939393;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #939393;
+        stroke-width: 2px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_6795" data-name="グループ化 6795" transform="translate(-813 -6394)">
+    <path id="パス_22246" data-name="パス 22246" class="cls-1" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(813 6394)"/>
+    <g id="グループ化_6733" data-name="グループ化 6733" transform="translate(0 72)">
+      <g id="パス_22238" data-name="パス 22238" class="cls-2" transform="translate(824 6336)">
+        <path class="cls-4" d="M0,0H28V21H13.559l-9.64,6.8V21H0Z"/>
+        <path class="cls-5" d="M 2 2.000001907348633 L 2 19 L 3.918819427490234 19 L 5.918819427490234 19 L 5.918819427490234 21.00000190734863 L 5.918819427490234 23.94389915466309 L 12.40577030181885 19.36594009399414 L 12.92430973052979 19 L 13.5589599609375 19 L 26 19 L 26 2.000001907348633 L 2 2.000001907348633 M 0 1.9073486328125e-06 L 28 1.9073486328125e-06 L 28 21.00000190734863 L 13.5589599609375 21.00000190734863 L 3.918819427490234 27.80322074890137 L 3.918819427490234 21.00000190734863 L 0 21.00000190734863 L 0 1.9073486328125e-06 Z"/>
+      </g>
+      <line id="線_666" data-name="線 666" class="cls-3" x2="16" transform="translate(830.5 6343.5)"/>
+      <line id="線_667" data-name="線 667" class="cls-3" x2="16" transform="translate(830.5 6349.5)"/>
+    </g>
+  </g>
+</svg>

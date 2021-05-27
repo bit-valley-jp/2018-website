@@ -1,0 +1,542 @@
+[
+{
+  "nameJp": "長谷部 健",
+  "nameEn": "Ken Hasebe",
+  "portrait": "./json/img/speaker/main_opening_hasebe.jpg",
+  "company": "渋谷区長",
+  "department": "",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "南場 智子",
+  "nameEn": "Tomoko Namba",
+  "portrait": "./json/img/speaker/main_keynote_tomoko_namba.jpg",
+  "company": "株式会社ディー・エヌ・エー",
+  "department": "代表取締役会長",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "熊谷 正寿",
+  "nameEn": "Masatoshi Kumagai",
+  "portrait": "./json/img/speaker/main_keynote_kumagai.jpg",
+  "company": "GMOインターネット株式会社",
+  "department": "代表取締役会長兼社長 グループ代表",
+  "links": {
+    "facebook": "https://www.facebook.com/masatoshi.kumagai",
+    "twitter": "https://twitter.com/m_kumagai",
+    "github": ""
+  }
+},
+{
+  "nameJp": "藤田 晋",
+  "nameEn": "Susumu Fujita",
+  "portrait": "./json/img/speaker/main_Keynote_fujita.jpg",
+  "company": "株式会社サイバーエージェント",
+  "department": "代表取締役社長",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/susumu_fujita",
+    "github": ""
+  }
+},
+{
+  "nameJp": "馮 富久",
+  "nameEn": "Fuon Tomihisa",
+  "portrait": "./json/img/speaker/main_keynote_fuon.jpg",
+  "company": "株式会社技術評論社",
+  "department": "クロスメディア事業室 室長",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "成田 一生",
+  "nameEn": "Issei Naruta",
+  "portrait": "./json/img/speaker/main_special1_naruta-mirakui-aws.jpg",
+  "company": "クックパッド株式会社",
+  "department": "執行役 CTO",
+  "links": {
+    "facebook": "https://www.facebook.com/mirakui",
+    "twitter": "https://twitter.com/mirakui",
+    "github": "https://github.com/mirakui"
+  }
+},
+{
+  "nameJp": "浜本 階生",
+  "nameEn": "Kaisei Hamamoto",
+  "portrait": "./json/img/speaker/main_special1_kaisei_hamamoto.jpg",
+  "company": "スマートニュース株式会社",
+  "department": "代表取締役社長 共同CEO<br>（Co-Founder and Co-CEO）",
+  "links": {
+    "facebook": "https://www.facebook.com/kaisei.hamamoto",
+    "twitter": "https://twitter.com/kaiseh",
+    "github": ""
+  }
+},
+{
+  "nameJp": "広木 大地",
+  "nameEn": "Daichi Hiroki",
+  "portrait": "./json/img/speaker/main_special1_hiroki.jpg",
+  "company": "株式会社レクター 取締役",
+  "department": "株式会社Good Moneyger 技術顧問",
+  "links": {
+    "facebook": "https://www.facebook.com/hirokidaichi",
+    "twitter": "https://twitter.com/hiroki_daichi",
+    "github": "https://github.com/hirokidaichi"
+  }
+},
+{
+  "nameJp": "山田 憲晋",
+  "nameEn": "Kenshin Yamada",
+  "portrait": "./json/img/speaker/main_r_d_dena_YamadaKenshin.jpg",
+  "company": "株式会社ディー・エヌ・エー",
+  "department": "システム本部AIシステム部 部長",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "中里 昌弘",
+  "nameEn": "Masahiro Nakazato",
+  "portrait": "./json/img/speaker/main_r&d_GMO_nakazato.jpg",
+  "company": "GMOインターネット株式会社",
+  "department": "システム本部 クラウドサービス開発部",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "吉野 純平",
+  "nameEn": "Jumpei Yoshino",
+  "portrait": "./json/img/speaker/main_r_d_mixi_YoshinoJunpei.jpg",
+  "company": "株式会社ミクシィ",
+  "department": "",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/junpei_y",
+    "github": "https://github.com/junpei-yoshino"
+  }
+},
+{
+  "nameJp": "山口 光太",
+  "nameEn": "Kota Yamaguchi",
+  "portrait": "./json/img/speaker/main_r_d_ca_yamaguchi.jpg",
+  "company": "株式会社サイバーエージェント",
+  "department": "AI Lab",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/kotymg",
+    "github": "https://github.com/kyamagu"
+  }
+},
+{
+  "nameJp": "山地 由里",
+  "nameEn": "Yuri Yamachi",
+  "portrait": "./json/img/speaker/main_diversity_google_yamachi.jpg",
+  "company": "グーグル合同会社",
+  "department": "ダイバーシティ アジアパシフィック地区統括責任者",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "長瀬 慶重",
+  "nameEn": "Norishige Nagase",
+  "portrait": "./json/img/speaker/main_diversity_nagase.jpg",
+  "company": "株式会社サイバーエージェント",
+  "department": "執行役員",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/lionbaby",
+    "github": ""
+  }
+},
+{
+  "nameJp": "井上 ゆり",
+  "nameEn": "Yuri Inoue",
+  "portrait": "./json/img/speaker/main_diversity_inoueyuri.jpg",
+  "company": "株式会社サイバーエージェント<br>アドテク本部 アドベリフィケーション事業",
+  "department": "サーバサイドエンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/iyunoriue",
+    "github": "https://github.com/x1-"
+  }
+},
+{
+  "nameJp": "樋口 勝一",
+  "nameEn": "Katsuichi Higuchi",
+  "portrait": "./json/img/speaker/main_diversity_GMOHiguchi.jpg",
+  "company": "GMOインターネット株式会社",
+  "department": "システム本部 Windowsソリューション チーフエグゼクティブ",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "上埜 かおり",
+  "nameEn": "Kaori Ueno",
+  "portrait": "./json/img/speaker/main_diversity_mixi_UENO.jpg",
+  "company": "株式会社ミクシィ",
+  "department": "エンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/upscent",
+    "github": ""
+  }
+},
+{
+  "nameJp": "西野 剛平",
+  "nameEn": "Kohei Nishino",
+  "portrait": "./json/img/speaker/main_diversiry_NishinoKohei.jpg",
+  "company": "株式会社ディー・エヌ・エー",
+  "department": "システム本部AIシステム部<br>AI研究開発第一グループ",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "藤崎 友樹",
+  "nameEn": "Yuki Fujisaki",
+  "portrait": "./json/img/speaker/main_special2_fujisaki.jpg",
+  "company": "株式会社デプロイゲート",
+  "department": "代表取締役CEO",
+  "links": {
+    "facebook": "https://www.facebook.com/fujisakiy",
+    "twitter": "https://twitter.com/tnj",
+    "github": "https://github.com/tnj"
+  }
+},
+{
+  "nameJp": "清水 巧",
+  "nameEn": "Takumi Shimizu",
+  "portrait": "./json/img/speaker/main_special2_shimizu.jpg",
+  "company": "株式会社リフカム",
+  "department": "代表取締役",
+  "links": {
+    "facebook": "https://www.facebook.com/shimizu.takumi1",
+    "twitter": "https://twitter.com/samurai_runner",
+    "github": ""
+  }
+},
+{
+  "nameJp": "加藤 將倫",
+  "nameEn": "Masanori Kato",
+  "portrait": "./json/img/speaker/main_special2_kato.jpg",
+  "company": "株式会社Progate",
+  "department": "代表取締役",
+  "links": {
+    "facebook": "https://www.facebook.com/cmasad",
+    "twitter": "https://twitter.com/cmasad43",
+    "github": "https://github.com/cmasad"
+  }
+},
+{
+  "nameJp": "藤川 真一",
+  "nameEn": "Shinichi Fujikawa",
+  "portrait": "./json/img/speaker/main_special2_fujikawa.jpg",
+  "company": "BASE株式会社 取締役CTO",
+  "department": "株式会社想創社 代表取締役",
+  "links": {
+    "facebook": "https://www.facebook.com/fshin2000",
+    "twitter": "https://twitter.com/fshin2000",
+    "github": ""
+  }
+},
+{
+  "nameJp": "塩谷 佳明",
+  "nameEn": "Yoshiaki Shiotani",
+  "portrait": "./json/img/speaker/sub1_game_shiotani.jpg",
+  "company": "株式会社ミクシィ ファイトリーグ事業部 クライアント開発グループ",
+  "department": "マネージャー",
+  "links": {
+    "facebook": "https://www.facebook.com/yoshiaki.shiotani",
+    "twitter": "",
+    "github": "https://github.com/sasasa1217"
+  }
+},
+{
+  "nameJp": "中田 季利",
+  "nameEn": "Kiri Nakata",
+  "portrait": "./json/img/speaker/sub1_game_nakata.jpg",
+  "company": "株式会社ミクシィ モンスト事業本部 モンストクライアントグループ",
+  "department": "クライアントエンジニア",
+  "links": {
+    "facebook": "https://www.facebook.com/kiri.nakata",
+    "twitter": "",
+    "github": "https://github.com/reanisz"
+  }
+},
+{
+  "nameJp": "村上 克弥",
+  "nameEn": "Katsuya Murakami",
+  "portrait": "./json/img/speaker/sub1_game_murakami.jpg",
+  "company": "株式会社ミクシィ ファイトリーグ事業部 クライアント開発グループ",
+  "department": "クライアントエンジニア",
+  "links": {
+    "facebook": "https://www.facebook.com/katuya.murakami.9",
+    "twitter": "",
+    "github": "https://github.com/Katsuya100"
+  }
+},
+{
+  "nameJp": "山中 勇成",
+  "nameEn": "Yusei Yamanaka",
+  "portrait": "./json/img/speaker/sub1_abema_yamanaka.jpg",
+  "company": "株式会社サイバーエージェント<br>AbemaTV 開発本部 コンテンツ配信チーム",
+  "department": "Streaming Reliability Engineer",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/toriimiyukki",
+    "github": "https://github.com/miyukki"
+  }
+},
+{
+  "nameJp": "志水 理哉",
+  "nameEn": "Masaya Shimizu",
+  "portrait": "./json/img/speaker/sub1_showroom_shimizu.jpg",
+  "company": "SHOWROOM株式会社",
+  "department": "Tech Studio エンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "堀 良太",
+  "nameEn": "Ryota Hori",
+  "portrait": "./json/img/speaker/sub1_abema_hori.jpg",
+  "company": "株式会社サイバーエージェント ",
+  "department": "FRESH LIVE バックエンドエンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/hori_ryota",
+    "github": "https://github.com/hori-ryota"
+  }
+},
+{
+  "nameJp": "長谷川 誠",
+  "nameEn": "Makoto Hasegawa",
+  "portrait": "./json/img/speaker/sub1_cloud_makoto_hasegawa.jpg",
+  "company": "株式会社サイバーエージェント<br>アドテク本部",
+  "department": "インフラエンジニア",
+  "links": {
+    "facebook": "https://www.facebook.com/makocchi0923",
+    "twitter": "https://twitter.com/makocchi",
+    "github": "https://github.com/makocchi-git"
+  }
+},
+{
+  "nameJp": "辻 雄介",
+  "nameEn": "Yusuke Tsuji",
+  "portrait": "./json/img/speaker/sub1_cloud_yusuke_tsuji.jpg",
+  "company": "株式会社ミクシィ",
+  "department": "エンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "放地 宏佳",
+  "nameEn": "Hiroyoshi Hochi",
+  "portrait": "./json/img/speaker/sub1_cloud_HochiHiroyoshi.jpg",
+  "company": "株式会社ディー・エヌ・エー",
+  "department": "システム本部技術開発室",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "福田 潔",
+  "nameEn": "Kiyoshi Fukuda",
+  "portrait": "./json/img/speaker/sub1_cloud_kiyoshi_fukuda.jpg",
+  "company": "グーグル・クラウド・ジャパン合同会社",
+  "department": "Google Cloud カスタマーエンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "佐藤 一憲",
+  "nameEn": "Kazunori Sato",
+  "portrait": "./json/img/speaker/sub1_ai_kazunori_sato.jpg",
+  "company": "グーグル合同会社",
+  "department": "Google Cloud デベロッパーアドボケイト",
+  "links": {
+    "facebook": "https://www.facebook.com/kazunori.sato.39",
+    "twitter": "https://twitter.com/kazunori_279",
+    "github": "https://github.com/kazunori279"
+  }
+},
+{
+  "nameJp": "折田 尚久",
+  "nameEn": "Naohisa Orita",
+  "portrait": "./json/img/speaker/sub1_GMO_Orita.jpg",
+  "company": "GMOインターネット株式会社",
+  "department": "次世代システム研究室",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "吉村 豊和",
+  "nameEn": "Toyokazu Yoshimura",
+  "portrait": "./json/img/speaker/sub1_saison_Yoshimura.jpg",
+  "company": "株式会社セゾン情報システムズ",
+  "department": "開発グループ長",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "鈴木 康弘",
+  "nameEn": "Yasuhiro Suzuki",
+  "portrait": "./json/img/speaker/sub2_qureo_suzuki.jpg",
+  "company": "株式会社アプリボット",
+  "department": "フロントエンドエンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/yasuiro",
+    "github": ""
+  }
+},
+{
+  "nameJp": "西尾 慎祐",
+  "nameEn": "Shinsuke Nishio",
+  "portrait": "./json/img/speaker/sub2_nishio.jpg",
+  "company": "株式会社ビビッドガーデン",
+  "department": "リードエンジニア",
+  "links": {
+    "facebook": "https://www.facebook.com/shinsuke.nishio.96",
+    "twitter": "https://twitter.com/nishio_dens",
+    "github": "https://github.com/nishio-dens"
+  }
+},
+{
+  "nameJp": "丸山 智康",
+  "nameEn": "Tomoyasu Maruyama",
+  "portrait": "./json/img/speaker/sub2_Google_maruyama.jpg",
+  "company": "グーグル・クラウド・ジャパン合同会社",
+  "department": "テクニカルアカウントマネージャー, Google Maps Platform",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "内藤 研介",
+  "nameEn": "Kensuke Naito",
+  "portrait": "./json/img/speaker/sub2_smartHR_naito.jpg",
+  "company": "株式会社 SmartHR",
+  "department": "取締役副社長 CPO（最高プロダクト責任者）",
+  "links": {
+    "facebook": "https://www.facebook.com/kensuke.naito",
+    "twitter": "https://twitter.com/kakipo",
+    "github": "https://github.com/kakipo"
+  }
+},
+{
+  "nameJp": "田中 一樹",
+  "nameEn": "Ikki Tanaka",
+  "portrait": "./json/img/speaker/sub2_dena_TanakaIkki.jpg",
+  "company": "株式会社ディー・エヌ・エー",
+  "department": "システム本部AIシステム部<br>AI研究開発第二グループ",
+  "links": {
+    "facebook": "https://www.facebook.com/ikki.tanaka.1",
+    "twitter": "https://twitter.com/ikki407",
+    "github": ""
+  }
+},
+{
+  "nameJp": "坂本 大輔",
+  "nameEn": "Daisuke Sakamoto",
+  "portrait": "./json/img/speaker/sub2_mixi_TDD_sakamoto.jpg",
+  "company": "株式会社ミクシィ",
+  "department": "エンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "秋山 拓也",
+  "nameEn": "Takuya Akiyama",
+  "portrait": "./json/img/speaker/profileimg_comingsoon.jpg",
+  "company": "GMOインターネット株式会社",
+  "department": "システム本部 インフラエンジニア",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+},
+{
+  "nameJp": "今村 雅幸",
+  "nameEn": "Masayuki Imamura",
+  "portrait": "./json/img/speaker/sub3_zozo_imamura.jpg",
+  "company": "株式会社スタートトゥデイテクノロジーズ",
+  "department": "執行役員 新規事業開発責任者",
+  "links": {
+    "facebook": "",
+    "twitter": "https://twitter.com/kyuns",
+    "github": ""
+  }
+},
+{
+  "nameJp": "森本 俊亨",
+  "nameEn": "Toshiaki Morimoto",
+  "portrait": "./json/img/speaker/sub2_graffity_morimoto_toshiaki.jpg",
+  "company": "Graffity株式会社",
+  "department": "CEO",
+  "links": {
+    "facebook": "https://www.facebook.com/100002037470594",
+    "twitter": "https://twitter.com/ok_totti",
+    "github": ""
+  }
+},
+{
+  "nameJp": "松本 勝",
+  "nameEn": "Masaru Matsumoto",
+  "portrait": "./json/img/speaker/sub2_startup_masaru_matsumoto.jpg",
+  "company": "VISITS Technologies株式会社",
+  "department": "CEO",
+  "links": {
+    "facebook": "",
+    "twitter": "",
+    "github": ""
+  }
+}
+]
